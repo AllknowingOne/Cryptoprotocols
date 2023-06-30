@@ -41,7 +41,7 @@ HMAC<br>
 Алгоритм позволяет как тюнить параметры большим числом способов так и разными способами использовать саму функцию диверсификации. Например, можно строить уровни вложенности семейств диверсифицированных ключей или же просто пробегаться счетчиком и генерировать новые ключи.<br>
 
 Время работы алгоритма при генерации 100000 ключей
-![image](https://github.com/AllknowingOne/Cryptoprotocols/assets/45735331/a5c4d667-105c-4699-b4b8-cacda31bfdb5)
+![image](https://github.com/AllknowingOne/Cryptoprotocols/assets/45735331/a5c4d667-105c-4699-b4b8-cacda31bfdb5)<br>
 Тест:
 ![image](https://github.com/AllknowingOne/Cryptoprotocols/assets/45735331/e18352ab-e63f-46af-82e8-113f7f7276a1)
 
